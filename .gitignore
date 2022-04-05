@@ -1,0 +1,7 @@
+/target
+usrxtx
+/mnt
+block
+getty
+*.img
+*.conf
